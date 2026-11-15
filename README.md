@@ -73,4 +73,8 @@ third_party/soundtouch  SoundTouch 2.3.3 (git submodule)
 
 ## License
 
-LGPL-2.1-or-later (see `LICENSE`). Music Practice statically links [SoundTouch](https://codeberg.org/soundtouch/soundtouch), which is LGPL-2.1. Music Practice is not affiliated with Winamp or with the PaceMaker or Loop Master authors.
+GPL-3.0-or-later (see `LICENSE`). You can use, change and share Music Practice, and anything built from it must also be released under the GPL with its source code.
+
+Music Practice includes [SoundTouch](https://codeberg.org/soundtouch/soundtouch), which is licensed separately under the LGPL-2.1 (see `third_party/soundtouch/COPYING.TXT`). The LGPL allows SoundTouch to be combined into a GPL-3.0 program.
+
+Music Practice is not affiliated with Winamp or with the PaceMaker or Loop Master authors.
